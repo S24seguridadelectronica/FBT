@@ -6,7 +6,7 @@ export default function Header() {
   return (
     <header>
       <nav>
-        <Image src="/images/logo.png" alt="FBT Logo" width={150} height={50} />
+        <Image src="/images/1.jpg" alt="FBT Logo" width={150} height={50} />
         <ul>
           <li><Link href="#home">Inicio</Link></li>
           <li><Link href="#services">Servicios</Link></li>
