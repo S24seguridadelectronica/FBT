@@ -1,0 +1,28 @@
+/* app/styles/Home.module.css */
+.hero {
+    background: url('/images/hero-bg.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 4rem 1rem;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+  }
+  
+  .services {
+    padding: 2rem 1rem;
+    text-align: center;
+  }
+  
+  .services h2 {
+    font-size: 2rem;
+  }
+  
+  .footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
